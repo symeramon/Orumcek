@@ -1,0 +1,56 @@
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Barış ALAGÖZ.BALAGOZ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Symeramon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Symeramon\Desktop\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Symeramon\Desktop\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\eski bilgisayar\D klasörü\24072016 format\PROJELER\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\TumCalismalar\örmcek son\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
